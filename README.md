@@ -7,7 +7,7 @@ Virtual high-fives are the new hand shakes!
 
 High five ✋ with others by waving 👋 your phone at them.
 
-The app plays the good-ol sound of how a real high-five sounds when you do!
+For the nerds - this app uses [Lottie](https://github.com/airbnb/lottie-android) animations paired with the device's accelerometer to create the high five effect!
 
 PS: This works similar to [Sheldon's 'whip' app.](https://www.youtube.com/watch?v=G1RZwOlSg5o)
 
