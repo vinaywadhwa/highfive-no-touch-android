@@ -1,0 +1,6 @@
+<resources>
+    <string name = "app_name">High Five - No Touch</string>
+    <string name="created_by">created by : @vinayw</string>
+    <string name="tap_to_share">tap to share</string>
+    <string name="staysafe">#StaySafe</string>
+</resources>
